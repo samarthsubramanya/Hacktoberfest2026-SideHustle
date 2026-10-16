@@ -1,0 +1,86 @@
+{
+  "5a8cfe3c2eab": {
+    "file": "adobe.png",
+    "reviewed": false,
+    "vendor": "Adobe Inc.",
+    "date": "2026-09-15",
+    "total": 64.85,
+    "tax": 4.86,
+    "payment": "VISA",
+    "items": "Creative Cloud All Apps Monthly plan",
+    "reason": "This is a business expense for software subscriptions used in graphic design work, not a personal purchase.",
+    "category": "18 Office expense"
+  },
+  "b56d618896e1": {
+    "file": "carwash.jpg",
+    "reviewed": false,
+    "vendor": "Mister Car Wash",
+    "date": "2026-10-07",
+    "total": 39.99,
+    "tax": 0.0,
+    "payment": "VISA",
+    "items": "Car wash",
+    "reason": "Car wash is a work-related expense for a rideshare driver using a personal vehicle.",
+    "category": "9 Car and truck expenses"
+  },
+  "d3db2c904dae": {
+    "file": "coffee.jpg",
+    "reviewed": false,
+    "vendor": "STARBUCKS",
+    "date": "2026-09-28",
+    "total": 14.48,
+    "tax": 1.08,
+    "payment": "MASTERCARD",
+    "items": "Grande Latte, Turkey Pesto Pan",
+    "reason": "The receipt shows a coffee purchase with a client (\"Met client re: logo revisions\"), making it a deductible business expense under Schedule C line 24b Meals (50%).",
+    "category": "24b Meals (50%)"
+  },
+  "16a7d46a531e": {
+    "file": "gas.jpg",
+    "reviewed": false,
+    "vendor": "SHELL",
+    "date": "2026-10-03",
+    "total": 41.33,
+    "tax": 0.0,
+    "payment": "VISA",
+    "items": "Gas",
+    "reason": "This is a work-related gas purchase for a rideshare vehicle, which is deductible under Schedule C line 9.",
+    "category": "9 Car and truck expenses"
+  },
+  "1594293a2b2d": {
+    "file": "groceries.jpg",
+    "reviewed": false,
+    "vendor": "TRADER JOE'S",
+    "date": "2026-10-05",
+    "total": 22.93,
+    "tax": 0,
+    "payment": "DEBIT",
+    "items": "BANANAS, FROZEN GYOZA, OAT MILK, CHOC ALMONDS, CHICKEN THIGHS",
+    "reason": "Personal (not deductible) because groceries and household items are personal expenses not related to business income.",
+    "category": "Personal (not deductible)"
+  },
+  "208624c14065": {
+    "file": "phone.jpg",
+    "reviewed": false,
+    "vendor": "T-Mobile",
+    "date": "2026-09-22",
+    "total": 101.64,
+    "tax": 0,
+    "payment": "AUTOPAY - DEBIT",
+    "items": "Phone and internet bill",
+    "reason": "This is a business expense for a freelance graphic designer's phone service, which falls under IRS Schedule C line 25 Utilities.",
+    "category": "25 Utilities"
+  },
+  "8225890b36dc": {
+    "file": "staples.jpg",
+    "reviewed": false,
+    "vendor": "STAPLES",
+    "date": "2026-10-01",
+    "total": 60.29,
+    "tax": 4.52,
+    "payment": "VISA",
+    "items": "HP 64XL INK BLACK, COPY PAPER 500CT, SHARPIE 12PK",
+    "reason": "The receipt shows office supplies purchased for graphic design work, which falls under IRS Schedule C line 22 Supplies.",
+    "category": "22 Supplies"
+  }
+}

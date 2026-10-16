@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {"name": "shoebox", "runtimeExecutable": "python3", "runtimeArgs": ["shoebox.py", "sample_receipts"], "port": 8765}
+  ]
+}
